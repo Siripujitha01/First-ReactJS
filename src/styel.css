@@ -1,0 +1,32 @@
+img{
+    height: 300px;
+    width: 600px;
+    margin-top: 40px;
+}
+h1{
+    font-family: cursive;
+    color: green;
+}
+h1:hover{
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+a:hover{
+    font-size: 30px;
+}
+center{
+    margin-top: 50px;
+    align-items: center;
+    width: 650px;
+    background-color: rgb(230, 222, 222);
+    border-radius: 25px;
+    margin-left: 400px;
+}
+img:hover{
+    height:350px;
+    width: 650px;
+}
